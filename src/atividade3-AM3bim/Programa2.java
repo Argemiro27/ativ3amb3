@@ -23,7 +23,7 @@ public class Veiculos{
                 System.out.println(this.numMarchas);
                 System.out.println(this.bagageiro);
 	        }
-		}
+        }
         public Automovel(double potenciaDoMotor){
             this.potenciaDoMotor = potenciaDoMotor;
             public Moto(boolean partidaEletrica){
